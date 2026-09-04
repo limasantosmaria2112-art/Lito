@@ -12,8 +12,8 @@
 | nome | numero | github |
 |:------:|:------:|:------:|
 |Kaike |   18   | [M1000](https://github.com/M100-ROSE)|
-|Maria |  00 | [EDDY](https://github.com/limasantosmaria2112-art)
-|Marcos| 00 | [KIELOP](https://github.com/oliveiramarcos16-eng)
+|Maria |  24 | [EDDY](https://github.com/limasantosmaria2112-art)
+|Marcos| 23 | [KIELOP](https://github.com/oliveiramarcos16-eng)
 
 </div>
 <h2 align="center">SOBRE</h2>
